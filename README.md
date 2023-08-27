@@ -4,5 +4,5 @@ Flashcards provide an effective way to memorise stuff using active recall and sp
 # Blueprint 🔨
 - Nuxt3 -> UI
 - PapaParse -> Parsing CSV data
-- GSheets/Excel -> storing flashcard data
-- AnkiConnect/Anki API -> creating and storing flashcards
+- GSheets/Excel -> storing flashcard data as CSV
+- AnkiConnect/Anki API -> creating and storing flashcards (see here: https://foosoft.net/projects/anki-connect/)
