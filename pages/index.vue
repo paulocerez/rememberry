@@ -1,11 +1,9 @@
 <script lang="ts">
-export default {
-	data() {
-	}
-}
 
 </script>
 
-<template></template>
+<template>
+	<h1>Hey, nice to see you here!</h1>
+</template>
 
 <style></style>
